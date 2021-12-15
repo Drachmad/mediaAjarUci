@@ -1,0 +1,1 @@
+﻿var textForPages = ["Kegiatan Malam","","","Selesai makan,                            kita belajar                    mewarnai yuk. Uci                      akan mewarnai                     buku gambar Uci.                   Teman-teman juga                    coba mewarnai ya","Courtesy: https://www.youtube.com/watch?v=fGs55FjnJaE","MARKER","","","","","",""];
